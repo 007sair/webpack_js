@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "longchan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.5.0",
+    "html-webpack-plugin": "^2.28.0",
+    "yargs": "^8.0.1",
+    "shelljs": "^0.7.7"
+  }
+}
